@@ -67,6 +67,10 @@ Mentoring nicholas (intern), coaching him on post-graduation plans
 Maybe help entrepreneurs judge feasibility of startup idea?
 Help startups tackle regulatory constraints (esp. with software?)
 Help companies/startups hire top talent for engineers to build their ideas
+<<<<<<< HEAD
+=======
+    Use history of me doing job interviews for Dexcom
+>>>>>>> b150cfc (add to wharton notes)
 Helping startups actually get their software deployed onto the cloud and usable in the real world.
 My experience as a Teaching Assistant will help me teach confusing technical concepts to my classmates
     One example of that girl who was failing, but came to my office hours every session and I helped her pass the class
