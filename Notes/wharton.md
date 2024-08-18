@@ -48,3 +48,34 @@ Venture lab -> mention design studios?. Basically the idea with mentioning this 
 ### Professional focused club
 
 If it's a club in an industry that I currently work in, then I can move this to the second essay and talk about my contribution. Contribution would be the unique perspective I have as a software engineer in the medtech industry--medical companies don't know how to be software companies.
+
+# Essay #2 Notes
+
+Repeat this template 2-3 times:
+    
+    - Impactful experience (priority for teamwork)
+    - Quick background
+    - What I learned
+    - Tie into wharton contribution
+    - How will this experience benefit others?
+        - Name the activity/activities
+        - Give specific contributions and why it matters
+
+Streamlining regulatory document creation
+Becoming best friends with David after conflict on mission
+Mentoring nicholas (intern), coaching him on post-graduation plans
+Maybe help entrepreneurs judge feasibility of startup idea?
+Help startups tackle regulatory constraints (esp. with software?)
+Help companies/startups hire top talent for engineers to build their ideas
+Helping startups actually get their software deployed onto the cloud and usable in the real world.
+My experience as a Teaching Assistant will help me teach confusing technical concepts to my classmates
+    One example of that girl who was failing, but came to my office hours every session and I helped her pass the class
+
+
+Clubs of interest:
+
+    - 
+
+McNulty Leadership Programs:
+
+    - 
