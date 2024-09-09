@@ -25,3 +25,6 @@ Talents that I may want to weave in:
 Just blows my mind the things offered here are not offered other places
 Culture of connection for people who will help me after school
 Add human to the essays – thinking bigger and grander, realizing I need a posse to do it. I want to be with people who are bigger and smarter and better than me so I can learn from them and they can learn from me.
+
+
+I wanna add something here
