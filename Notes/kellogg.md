@@ -14,3 +14,6 @@ healthcare entrepreneurship track
 Experiential learning
     Work with healthcare organizations to help solve real-world challenges
     Receive guidance for those looking to start their own venture
+
+risk was spending time developing solution and getting locked in when it restricts us
+emphasize how I expressed my opinions
