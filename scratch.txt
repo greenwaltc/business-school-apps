@@ -1,1 +1,27 @@
-Boba would like to thank you for taking the time to review my application!
+Request:
+    fr-CA
+
+first try an exact match on both language and country code
+if no match exists, then try matching on only language
+    but the campaign message shouldn't have a country code in this case
+
+Scenario 1: // exact match
+    request fr-CA
+    campaign message translations available: en-US, es-MX, fr-CA
+    return fr-CA
+
+Scenario 2: // match exists but only for language code
+    request fr-CA
+    campaign message translations available: en-US, es-MX, fr
+    return fr
+    // mapping from fr-CA -> fr IS ACCEPTABLE if and only if fr-CA is not available AND fr is available
+
+Scenario 3: // no match exists, don't assume anything about country code
+    request fr-CA
+    campaign message translations available: en-US, es-MX, fr-GB
+    return 404
+    // don't map from fr-CA -> fr-GB
+
+Scenario 4: // don't provide country code
+    request fr
+    return 400, country code required
