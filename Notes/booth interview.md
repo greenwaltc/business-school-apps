@@ -11,22 +11,30 @@ Polsky Center
 
 - [Medical devices technology](https://uchicago.technologypublisher.com/?utm_campaign=Technology+Publisher&utm_medium=bitly&utm_source=websitetopnav)
 
-Employers out of Duke
+Employers out of Booth
     
 - Abbott
 - Johnson & Johnson
 - Biogen (neuro specific company)
 - Health Innovation Capital (healthcare innovation VC fund)
 - Pfizer
-    
 
+Groups:
+    Booth Technology Group
+    Entrepreneurship and Venture Capital Group
+    Healthcare Group
 
-Clubs:
-    Design & innovation club
-    Health care club
-    tech club
 
 Other schools: 
-    Booth, 
-    cornell (but duke for team fuqua culture, stronger presence in healthcare, larger class size, I can tailor the duke coursework more to my needs)
-    duke has proximity to research triangle park (RTP)
+
+- Duke
+    - Healthcare in NC but no support for medical devices
+    - Booth has just as much team support as does Duke with their "Team Fuqua"
+    - Duke doesn't have a Polsky center
+    - Booth has more flexible curriculum (least number of required courses of any top B-school)
+
+- Wharton
+    - Has the HCM major (like Booth)
+    - Has Tangen Hall but there's fewer "deep tech" stuff going on at Tangen Hall than Polsky Center
+    - I'm not as good a cultural fit for Wharton as I am for Booth, given my interactions with Booth students.
+    - Booth has more flexible curriculum
